@@ -11,4 +11,9 @@ paperurl: 'https://arxiv.org/pdf/2604.19596'
 bibtexurl: 'https://MehdiMaboudi.github.io/files/bibtex1.bib'
 citation: 'Maboudi, Mehdi, et al. "PC2Model: ISPRS benchmark on 3D point cloud to model registration." arXiv preprint arXiv:2604.19596 (2026).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+PC2Model is a benchmark dataset for point cloud-to-model registration, where the goal is to align a 3D point cloud with a reference 3D model.
+<p align="center">
+  <a href="https://arxiv.org/abs/2604.19596">Paper</a> •
+  <a href="https://zenodo.org/uploads/17581812">Dataset (Zenodo)</a> •
+  <a href="https://github.com/saidharb/PC2Model.git">Tools & Scripts</a>
+</p>
