@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I’m Mehdi Maboudi — a lecturer and senior researcher at the intersection of photogrammetry, remote sesning, computer vision, , geospatial AI, and digital construction.
+Hi, I’m Mehdi Maboudi — a lecturer and senior researcher at the intersection of photogrammetry, remote sensing, computer vision, , geospatial AI, and digital construction.
 
 I am currently affiliated with [the Institute of Geodesy and Photogrammetry](https://www.tu-braunschweig.de/en/igp) at the [Technical University of Braunschweig](https://www.tu-braunschweig.de/en), where my work focuses on reality capture technologies with AI-driven analysis to create intelligent systems for spatial understanding, 3D reconstruction, SHM (structural health monitoring), and digital construction. 
 
